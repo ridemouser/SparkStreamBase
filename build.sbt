@@ -1,4 +1,4 @@
-name := "SparkParser"
+name := "SparkParserAml"
 
 scalaVersion := "2.11.8"
 val kafkaVersion = "0.10.0.1"
